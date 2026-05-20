@@ -1,0 +1,39 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary / lock files
+*.tmp
+*.bak
+~$*
+
+# Local Claude Code state
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Optionally exclude certain confidential file patterns
+# Uncomment if you want to mark some files as "never commit"
+# *-CONFIDENTIAL.*
+# *-PRIVATE.*
+# *-DO-NOT-COMMIT.*
+
+# Large attachments (you decide whether to keep these in Git or store elsewhere)
+# *.zip
+# *.rar
+# *.7z
+
+# OS-specific
+desktop.ini
+$RECYCLE.BIN/
