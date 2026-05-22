@@ -1,8 +1,8 @@
 # Внутренний меморандум (Stage 1)
 
-**Адресат-консультант:** Baicheng (КНР)
-**Конечный клиент:** SIBAKU BUILDING MATERIALS MMC (VÖEN 2007636981)
-**Матера:** 2026-05-tax-overpayment-refund
+**Client (direct counsel):** Baicheng (КНР)
+**End client:** SIBAKU BUILDING MATERIALS MMC (VÖEN 2007636981)
+**Матера:** `clients/baicheng/matters/2026-05-sibaku-refund`
 **Дата:** 2026-05-21
 **Подготовил:** Claude / для подтверждения Zaur Ismailov
 

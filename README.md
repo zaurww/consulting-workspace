@@ -13,7 +13,7 @@ Private workspace for Accounting.Az LLC client matters and internal knowledge ba
 | Client | Matter | Status | Opened | Deadline | Folder |
 |--------|--------|--------|--------|----------|--------|
 | ATA Tax (Poland) | Polish athlete in AZ — Art. 17 DTT + Art. 102.1.15 NK | In progress | 2026-05-15 | — | `clients/ata-tax-poland/matters/2026-05-athlete-polish-resident/` |
-| | | | | | |
+| Baicheng (КНР) | End-client SİBAKU MMC — возврат переплат (лицевой счёт + ƏDV sub-uçot hesabı) | Deliverable отправлен | 2026-05-21 | — | `clients/baicheng/matters/2026-05-sibaku-refund/` |
 
 ---
 
