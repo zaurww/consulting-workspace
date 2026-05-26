@@ -4,6 +4,31 @@ A more detailed view than the table in `workspace/README.md`. Update as work pro
 
 ---
 
+## Gorilla — Налоговая модель аренды импортированных холодильников
+
+- **Folder:** `clients/gorilla/matters/2026-05-fridge-rental-model/`
+- **Status:** In analysis (Stage 1 готов, ожидает подтверждения Z.)
+- **Opened:** 2026-05-26
+- **Deadline:** —
+- **Billing status:** Not invoiced
+
+### Progress Log
+
+- [2026-05-26] Запрос получен (00-inquiry.md)
+- [2026-05-26] Currency check НК (2026-05-20) — расхождений по релевантным статьям нет
+- [2026-05-26] Внутренний меморандум готов (01-analysis.md) — 11 разделов
+
+### Next Action
+
+Z.: подтвердить анализ и недостающие вводные (раздел 0 меморандума: ОПФ/режим НДС, связанность сторон, выкуп, привязка к закупке) → затем Stage 2 (клиентский документ).
+
+### Pending Items
+
+- Полное юр. наименование клиента (для conflict check и client-info)
+- Процедура/сроки э-счетов-фактур по регулярной аренде (taxes.gov.az)
+
+---
+
 ## [Client Name] — [Matter Topic]
 
 - **Folder:** `clients/[client]/matters/[matter]/`
