@@ -14,6 +14,7 @@ Private workspace for Accounting.Az LLC client matters and internal knowledge ba
 |--------|--------|--------|--------|----------|--------|
 | ATA Tax (Poland) | Polish athlete in AZ — Art. 17 DTT + Art. 102.1.15 NK | In progress | 2026-05-15 | — | `clients/ata-tax-poland/matters/2026-05-athlete-polish-resident/` |
 | Baicheng (КНР) | End-client SİBAKU MMC — возврат переплат (лицевой счёт + ƏDV sub-uçot hesabı) | Deliverable отправлен | 2026-05-21 | — | `clients/baicheng/matters/2026-05-sibaku-refund/` |
+| Symba | ГПХ split payroll (АЗ-филиал 1200 + Гонконг 6800) — риски схемы/переквалификации, ст. 13.2.70 + 23.1.6-1 НК | Черновик ответа готов | 2026-05-26 | — | `clients/symba/matters/2026-05-gph-split-payroll-hongkong/` |
 
 ---
 
